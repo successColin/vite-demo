@@ -8,7 +8,6 @@
 // 缓存作用：相似于computed
 let getters = {
   doneTodos: state => {
-    console.log(state)
     return state.todos.filter(todo => todo.done)
   },
   // 参数一：状态；参数二：方法；

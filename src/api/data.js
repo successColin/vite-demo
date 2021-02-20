@@ -38,7 +38,7 @@ export const getTableData3 = (data) => {
 // 大区列表
 export const getRegionalList = (data) => {
   return axios.request({
-    url: 'LOCAL-1001-3-basestationlevel/query',
+    url: 'LOCAL-1001-3-basestationlevel/quer',
     method: 'post',
     data: {
       data

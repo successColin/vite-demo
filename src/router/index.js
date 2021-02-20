@@ -8,11 +8,7 @@ const router = createRouter({
   history: routerHistory,
   routes: [{
       path: '/',
-      redirect: '/home'
-    },
-    {
-      path: '/home',
-      component: () => import('../view/Home.vue')
+      redirect: '/contact'
     },
     {
       path: '/contact',

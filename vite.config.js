@@ -4,7 +4,7 @@ module.exports = {
     alias: {
       '/@/': path.resolve(__dirname, './src')
     },
-    hostname: '0.0.0.0', // 默认是 localhost
+    // hostname: '0.0.0.0', // 默认是 localhost
     port: '8000', // 默认是 3000 端口
     open: true, // 浏览器自动打开
     https: false, // 是否开启 https
