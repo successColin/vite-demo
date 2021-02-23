@@ -4,7 +4,7 @@
   <!-- <div class="nav-btn">
     <router-link to='/' class="contact">Contact </router-link>
   </div> -->
-  <router-view></router-view>
+  <router-view>ddd</router-view>
 </template>
 
 <script>
