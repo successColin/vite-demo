@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <!-- <HelloWorld msg="Hello Vue 3.0 + Vite" /> -->
+  <!-- <img alt="Vue logo" src="./assets/logo.png" /> -->
+  <HelloWorld msg="Hello Vue 3.0 + Vite" />
   <!-- <div class="nav-btn">
     <router-link to='/' class="contact">Contact </router-link>
   </div> -->
